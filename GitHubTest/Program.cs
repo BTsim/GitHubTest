@@ -13,6 +13,7 @@ namespace GitHubTest
             Console.Write("Hello GitHub");
             var a = false;
             var b = true;
+            var c = a + b;
         }
     }
 }
