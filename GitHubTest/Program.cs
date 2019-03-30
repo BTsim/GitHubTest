@@ -12,8 +12,6 @@ namespace GitHubTest
         {
             Console.Write("Hello GitHub");
             var a = false;
-            var b = a;
-            var g = a;
         }
     }
 }
